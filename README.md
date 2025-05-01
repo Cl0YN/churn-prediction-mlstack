@@ -31,7 +31,7 @@
 | ML-библиотеки   | CatBoost, LightGBM, XGBoost, Scikit-learn   |
 | Оптимизация     | Optuna                                      |
 | Визуализация    | Matplotlib, Seaborn                         |
-| Прочее          | Imbalanced-learn, Pandas, NumPy             |
+| Прочее          |  Pandas, NumPy                              |
 
 ---
 
